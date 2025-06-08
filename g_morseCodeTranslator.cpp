@@ -1,5 +1,5 @@
 /*
-Danilchenko Pavel Sergeevich
+Danilchenko Paul Sergeevich
 Morse Code String Encoder
 Fault-tolerant computing
 */
